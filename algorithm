@@ -1,0 +1,10 @@
+
+say you watch these world surf league events. Here is the basis. 
+
+it takes a lot of physics too and light physics. but basically, you sample the first pixel of each row, use a pseudo random range to describe the variation
+in colors and bends and curves of light, and then guess the rest of the colors because they will mostly be similar, 
+and then track the surfers and basically draw them and their wake etc onto the wave using random colors and a ton of physics. 
+
+itll take me a bit more thinking, but you also have to take into consideration local weather conditions, wind, and overall what the waves tend to do. 
+
+but you can do the same thing with baseball and football and soccer and stuff like that.
